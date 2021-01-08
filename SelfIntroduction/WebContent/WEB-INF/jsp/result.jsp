@@ -22,6 +22,6 @@ String[] palam = hero.getPalam();
 	<%= palam[i] %>:
 	<%= vals[i] %>
 <%} %><br>
-<a href="/WEB-INF/jsp/Main.jsp">もう一度、作り直す？</a>
+<a href="/SelfIntroduction/Create">もう一度、作り直す？</a>
 </body>
 </html>
